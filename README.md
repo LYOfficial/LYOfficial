@@ -1,14 +1,7 @@
-- 👋 你好，这里是@LYOfficial
-- 👀 我喜欢 Minecraft
-- 🌱 我在学习 C++ and html
-- 📫 你可以发邮件给我： LY@tecostudio.cn
-
-
 - 👋 Hi, I’m @LYOfficial
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning C++ and html
 - 📫 You could email me at LY@tecostudio.cn
-- 
 <table>
   <tr>
     <td>
