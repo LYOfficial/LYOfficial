@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYOfficial&layout=compact&title_color=000000&hide_border=true&locale=cn" />  </td>
     <td>
 欢迎加入我们 <a href="https://github.com/TecoStudio">TecoStudio</a>
-- 
+<br>
 Welcome to join us <a href="https://github.com/TecoStudio">TecoStudio</a>
 
 <img src="https://bbs.tecostudio.cn/assets/files/2024-01-23/1706008893-235360-favicon.png" align="right" width="300"/> </td>
