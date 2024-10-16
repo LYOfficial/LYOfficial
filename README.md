@@ -1,4 +1,4 @@
-![11A27D3A](https://github.com/user-attachments/assets/c15b1e55-b258-41dd-b0b9-391ca03d8633)- 👋 这里是 LYOfficial
+- 👋 这里是 LYOfficial
 - 👀 一名 Minecraft 爱好者
 - 🌱 多语言全能爱好者 Python/C/C++/C#/Java/Javascript/HTML/CSS
 - 📫 私聊我 LY@tecostudio.cn
