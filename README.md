@@ -1,14 +1,15 @@
-- 👋 这里是 LYOfficial
+![11A27D3A](https://github.com/user-attachments/assets/c15b1e55-b258-41dd-b0b9-391ca03d8633)- 👋 这里是 LYOfficial
 - 👀 一名 Minecraft 爱好者
-- 🌱 正在学习 C++ 和 html
+- 🌱 多语言全能爱好者 Python/C/C++/C#/Java/Javascript/HTML/CSS
 - 📫 私聊我 LY@tecostudio.cn
-
+- 🖥️ 最近项目 AI 文生图与图像处理
 <br>
 
 - 👋 Hi, I’m @LYOfficial
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning C++ and html
+- 🌱 Multilingual universal lovers Python/C/C++/C#/Java/Javascript/HTML/CSS
 - 📫 You could email me at LY@tecostudio.cn
+- 🖥️ Recent projects Artificial Intelligence Vincenne Graphs and Image Processing
 <table>
   <tr>
     <td>
