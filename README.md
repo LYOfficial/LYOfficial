@@ -1,3 +1,7 @@
+> 不为无益之事，何以悦有涯之生。
+
+来都来了，点个关注呗~！
+
 - 👋 这里是 LYOfficial
 - 👀 一名 Minecraft 爱好者
 - 🌱 多语言全能爱好者 Python/C/C++/C#/Java/Javascript/HTML/CSS
@@ -20,7 +24,7 @@
 <br>
 Welcome to join us <a href="https://github.com/TecoStudio">TecoStudio</a>
 
-<img src="https://bbs.tecostudio.cn/assets/files/2024-01-23/1706008893-235360-favicon.png" align="right" width="300"/> </td>
+<img src="https://pic.awa.ms/f/2024/11/17/6739d3f5215f0.png" align="right" width="300"/> </td>
   </tr>
   </table>
 <!---
