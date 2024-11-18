@@ -1,12 +1,5 @@
 > 不为无益之事，何以悦有涯之生。
 
-来都来了，点个关注呗~！
-
-- 👋 这里是 LYOfficial
-- 👀 一名 Minecraft 爱好者
-- 🌱 多语言全能爱好者 Python/C/C++/C#/Java/Javascript/HTML/CSS
-- 📫 私聊我 LY@tecostudio.cn
-- 🖥️ 最近项目 AI 文生图与图像处理
 <br>
 
 - 👋 Hi, I’m @LYOfficial
