@@ -13,11 +13,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LYOfficial&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true&locale=cn" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYOfficial&layout=compact&title_color=000000&hide_border=true&locale=cn" />  </td>
     <td>
-欢迎加入我们 <a href="https://github.com/TecoStudio">TecoStudio</a>
-<br>
-Welcome to join us <a href="https://github.com/TecoStudio">TecoStudio</a>
+欢迎加入我们：
 
-<img src="https://pic.awa.ms/f/2024/11/17/6739d3f5215f0.png" align="right" width="300"/> </td>
+<a href="https://github.com/TecoStudio">TecoStudio</a>
+
+<a href="https://github.com/USTB-SkyCode">SkyCode</a>
+
+<br>
+Welcome to join us:
+      
+<a href="https://github.com/TecoStudio">TecoStudio</a>
+
+<a href="https://github.com/USTB-SkyCode">SkyCode</a>
+
   </tr>
   </table>
 <!---
