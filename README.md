@@ -12,6 +12,7 @@
 </a>
 
 <h3>❝ 不为无益之事，何以悦有涯之生 ❞</h3>
+<h4>"Time you enjoy wasting is not wasted time."</h4>
 
 <br>
 
@@ -75,13 +76,21 @@
 
 <br>
 
-<h3>🌟 Featured Project</h3>
+<h3>Featured Project</h3>
+
+
 <a href="https://github.com/LYOfficial/OneDocs">
-<img src="https://socialify.git.ci/LYOfficial/OneDocs/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light" alt="OneDocs" width="85%" />
+<img src="https://socialify.git.ci/LYOfficial/OneDocs/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Foss.1n.hk%2Flyofficial%2Fimages%2Ficon.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="OneDocs" width="85%" />
 </a>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LYOfficial&theme=default&hide_border=true&fire=00549E&ring=00549E&currStreakLabel=00549E" alt="Streak" />
+如蒙**青睐**，烦请**赐星**。
+
+<br>
+
+If **liked**, please **Star**.
+
+<br>
 
 </div>
