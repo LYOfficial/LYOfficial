@@ -85,6 +85,12 @@
 
 <br>
 
+<a href="https://github.com/LYOfficial/KoDawn">
+<img src="https://socialify.git.ci/LYOfficial/Kodawn/image?custom_language=Python&description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Foss.1n.hk%2Flyofficial%2Fimages%2Fkodawn.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="Kodawn" width="85%" />
+</a>
+
+<br>
+
 如蒙**青睐**，烦请**赐星**。
 
 <br>
