@@ -81,42 +81,42 @@
 <h4>Personal Projects</h4>
 <p style="white-space: nowrap;">
 <a href="./works.md#onedocs">
-<img src="https://img.shields.io/badge/Python-OneDocs-3776AB?style=for-the-badge" alt="OneDocs" />
+<img src="https://img.shields.io/badge/TypeScript-OneDocs-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="OneDocs" />
 </a>
 <a href="./works.md#type2learn">
-<img src="https://img.shields.io/badge/C%23-Type2Learn-239120?style=for-the-badge" alt="Type2Learn" />
+<img src="https://img.shields.io/badge/TypeScript-Type2Learn-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Type2Learn" />
 </a>
 </p>
 
 <h4>For USTB</h4>
 <p style="white-space: nowrap;">
 <a href="./works.md#ustb-all-in-one">
-<img src="https://img.shields.io/badge/TypeScript-USTB--All--In--One-3178C6?style=for-the-badge" alt="USTB-All-In-One" />
+<img src="https://img.shields.io/badge/Node.js-USTB--All--In--One-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="USTB-All-In-One" />
 </a>
 <a href="./works.md#ustbl">
-<img src="https://img.shields.io/badge/C%23-USTBL-239120?style=for-the-badge" alt="USTBL" />
+<img src="https://img.shields.io/badge/TypeScript-USTBL-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="USTBL" />
 </a>
 <a href="./works.md#vskin">
-<img src="https://img.shields.io/badge/PHP-vSkin-777BB4?style=for-the-badge" alt="vSkin" />
+<img src="https://img.shields.io/badge/Python-vSkin-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="vSkin" />
 </a>
 <a href="./works.md#vbeike">
-<img src="https://img.shields.io/badge/Vue-vBeike-4FC08D?style=for-the-badge" alt="vBeike" />
+<img src="https://img.shields.io/badge/JavaScript-vBeike-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="vBeike" />
 </a>
 <a href="./works.md#kodawn">
-<img src="https://img.shields.io/badge/Python-Kodawn-3776AB?style=for-the-badge" alt="Kodawn" />
+<img src="https://img.shields.io/badge/JavaScript-Kodawn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Kodawn" />
 </a>
 </p>
 
 <h4>For Minecraft</h4>
 <p style="white-space: nowrap;">
 <a href="./works.md#bbspk">
-<img src="https://img.shields.io/badge/JavaScript-BBSPK-F7DF1E?style=for-the-badge" alt="BBSPK" />
+<img src="https://img.shields.io/badge/JavaScript-BBSPK-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="BBSPK" />
 </a>
 <a href="./works.md#enderpalette">
-<img src="https://img.shields.io/badge/TypeScript-EnderPalette-3178C6?style=for-the-badge" alt="EnderPalette" />
+<img src="https://img.shields.io/badge/JavaScript-EnderPalette-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="EnderPalette" />
 </a>
 <a href="./works.md#mineguide">
-<img src="https://img.shields.io/badge/Python-MineGuide-3776AB?style=for-the-badge" alt="MineGuide" />
+<img src="https://img.shields.io/badge/Python-MineGuide-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="MineGuide" />
 </a>
 </p>
 
