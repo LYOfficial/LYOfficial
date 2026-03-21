@@ -78,16 +78,47 @@
 
 <h3>Featured Project</h3>
 
-
-<a href="https://github.com/LYOfficial/OneDocs">
-<img src="https://socialify.git.ci/LYOfficial/OneDocs/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Foss.1n.hk%2Flyofficial%2Fimages%2Ficon.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="OneDocs" width="85%" />
+<h4>Personal Projects</h4>
+<p style="white-space: nowrap;">
+<a href="./works.md#onedocs">
+<img src="https://img.shields.io/badge/Python-OneDocs-3776AB?style=for-the-badge" alt="OneDocs" />
 </a>
-
-<br>
-
-<a href="https://github.com/LYOfficial/KoDawn">
-<img src="https://socialify.git.ci/LYOfficial/Kodawn/image?custom_language=Python&description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Foss.1n.hk%2Flyofficial%2Fimages%2Fkodawn.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="Kodawn" width="85%" />
+<a href="./works.md#type2learn">
+<img src="https://img.shields.io/badge/C%23-Type2Learn-239120?style=for-the-badge" alt="Type2Learn" />
 </a>
+</p>
+
+<h4>For USTB</h4>
+<p style="white-space: nowrap;">
+<a href="./works.md#ustb-all-in-one">
+<img src="https://img.shields.io/badge/TypeScript-USTB--All--In--One-3178C6?style=for-the-badge" alt="USTB-All-In-One" />
+</a>
+<a href="./works.md#ustbl">
+<img src="https://img.shields.io/badge/C%23-USTBL-239120?style=for-the-badge" alt="USTBL" />
+</a>
+<a href="./works.md#vskin">
+<img src="https://img.shields.io/badge/PHP-vSkin-777BB4?style=for-the-badge" alt="vSkin" />
+</a>
+<a href="./works.md#vbeike">
+<img src="https://img.shields.io/badge/Vue-vBeike-4FC08D?style=for-the-badge" alt="vBeike" />
+</a>
+<a href="./works.md#kodawn">
+<img src="https://img.shields.io/badge/Python-Kodawn-3776AB?style=for-the-badge" alt="Kodawn" />
+</a>
+</p>
+
+<h4>For Minecraft</h4>
+<p style="white-space: nowrap;">
+<a href="./works.md#bbspk">
+<img src="https://img.shields.io/badge/JavaScript-BBSPK-F7DF1E?style=for-the-badge" alt="BBSPK" />
+</a>
+<a href="./works.md#enderpalette">
+<img src="https://img.shields.io/badge/TypeScript-EnderPalette-3178C6?style=for-the-badge" alt="EnderPalette" />
+</a>
+<a href="./works.md#mineguide">
+<img src="https://img.shields.io/badge/Python-MineGuide-3776AB?style=for-the-badge" alt="MineGuide" />
+</a>
+</p>
 
 <br>
 
