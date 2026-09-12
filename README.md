@@ -16,20 +16,6 @@
 
 <br>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-<h3>👨‍💻 About Me</h3>
-<p>👋 <b>@LYOfficial</b> · Minecraft / AI / 图像处理<br>📫 <a href="mailto:coldregion@qq.com">coldregion@qq.com</a></p>
-</td>
-<td width="50%" align="center" valign="top">
-<h3>🛠️ Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" /><br><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /></p>
-</td>
-</tr>
-</table>
-
-<br>
 
 <table border="0" width="100%">
 <tr>
@@ -44,7 +30,7 @@
 
 <br>
 
-<h3>🚀 Featured Projects</h3>
+
 
 <table width="100%" border="0">
 <tr>
@@ -52,7 +38,7 @@
 <h4>📚 <a href="https://github.com/LYOfficial/OneDocs">OneDocs</a></h4>
 <a href="https://onedocs.ijune.cn/"><img src="https://pic1.imgdb.cn/i/034NWTemhT4w88bUbON0Ti.png" alt="OneDocs banner" width="100%" /></a>
 <p>基于 AI 的智能文档分析工具：本地解析 PDF，调用多种大模型生成结构化知识手册。</p>
-<a href="https://onedocs.ijune.cn/"><img src="https://img.shields.io/badge/在线体验-onedocs.ijune.cn-3178C6?style=flat-square" alt="OneDocs online" /></a>
+<a href="https://onedocs.ijune.cn/"><img src="https://img.shields.io/badge/官网-onedocs.ijune.cn-3178C6?style=flat-square" alt="OneDocs online" /></a>
 <a href="https://github.com/LYOfficial/OneDocs"><img src="https://img.shields.io/badge/React%20%2B%20Tauri%20%2B%20Rust-24C8DB?style=flat-square" alt="OneDocs stack" /></a>
 </td>
 <td width="50%" valign="top">
@@ -66,18 +52,17 @@
 </table>
 
 <h4>🧱 <a href="https://www.ustb.world/">vUSTB</a> · 像素北科</h4>
-<p align="center"><a href="https://www.ustb.world/"><img src="https://pic1.imgdb.cn/i/034NWTYdMDoQb5TJS6E1pI.png" alt="vUSTB 官网" width="19.7%" /></a><a href="https://github.com/LYOfficial/Jewel"><img src="https://pic1.imgdb.cn/i/034NWTWoxX8iUuBcVtq9hK.png" alt="Jewel 仓库" width="19.7%" /></a><a href="https://github.com/LYOfficial/USTBL"><img src="https://pic1.imgdb.cn/i/034NWTZAnIanQfZc3GholZ.png" alt="USTBL 仓库" width="19.7%" /></a><a href="https://github.com/iJunecn/vBot"><img src="https://pic1.imgdb.cn/i/034NWTYynaddmVOxDuH0tR.png" alt="vBot 仓库" width="19.7%" /></a><a href="https://github.com/LYOfficial/AnyshareCLI"><img src="https://pic1.imgdb.cn/i/034NWTXb1ITlwURcEfJFbb.png" alt="AnyshareCLI 仓库" width="19.7%" /></a></p>
+<p align="center"><a href="https://www.ustb.world"><img src="https://pic1.imgdb.cn/i/034NYgfabbpYEh7N007hjp.png" alt="vUSTB 官网" width="19.7%" /></a><a href="https://github.com/LYOfficial/Jewel"><img src="https://pic1.imgdb.cn/i/034NWTWoxX8iUuBcVtq9hK.png" alt="Jewel 仓库" width="19.7%" /></a><a href="https://github.com/LYOfficial/USTBL"><img src="https://pic1.imgdb.cn/i/034NYgaiuBgufBE5BgohHZ.png" alt="USTBL 仓库" width="19.7%" /></a><a href="https://github.com/iJunecn/vBot"><img src="https://pic1.imgdb.cn/i/034NWTYynaddmVOxDuH0tR.png" alt="vBot 仓库" width="19.7%" /></a><a href="https://github.com/LYOfficial/AnyshareCLI"><img src="https://pic1.imgdb.cn/i/034NWTXb1ITlwURcEfJFbb.png" alt="AnyshareCLI 仓库" width="19.7%" /></a></p>
 <a href="https://www.ustb.world/"><img src="https://pic1.imgdb.cn/i/034NWTc0w2PluHuqfBg1tr.png" alt="vUSTB 生态详细数据流程图" width="100%" /></a>
-<p align="center"><a href="https://www.ustb.world/">官网</a> · <a href="https://github.com/LYOfficial/Jewel">Jewel</a> · <a href="https://github.com/LYOfficial/USTBL">USTBL</a> · <a href="https://github.com/iJunecn/vBot">vBot</a> · <a href="https://github.com/LYOfficial/AnyshareCLI">AnyshareCLI</a> · <a href="./works.md#vustb--像素北科生态">项目说明</a></p>
+<p align="center"><a href="https://www.ustb.world">官网</a> · <a href="https://github.com/LYOfficial/Jewel">Jewel</a> · <a href="https://github.com/LYOfficial/USTBL">USTBL</a> · <a href="https://github.com/iJunecn/vBot">vBot</a> · <a href="https://github.com/LYOfficial/AnyshareCLI">AnyshareCLI</a> · <a href="./works.md#vustb--像素北科生态">作品集</a></p>
 
 <br>
 
-如蒙**青睐**，烦请**赐星**。
-
-<br>
-
-If **liked**, please **Star**.
-
-<br>
 
 </div>
+
+
+
+
+
+
