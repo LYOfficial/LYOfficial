@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">vUSTB · 像素北科</title><desc id="desc">vUSTB 是连接校园社区、Minecraft、部署运维和云盘服务的官网平台。</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f3d"/><stop offset="1" stop-color="#17527a"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ee7ff" stroke-opacity=".055"/></pattern></defs>
+  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#376887"/><rect x="680" y="1" width="518" height="298" rx="22" fill="url(#grid)"/>
+  <g font-family="Segoe UI,PingFang SC,Microsoft YaHei,sans-serif">
+    <text x="48" y="47" fill="#8fd9ff" font-size="16" font-weight="600" letter-spacing="3">03 / CAMPUS GAME &amp; COMMUNITY PLATFORM</text>
+    <text x="48" y="113" fill="#f4fbff" font-size="52" font-weight="700">vUSTB</text><text x="258" y="112" fill="#acd2e8" font-size="27">像素北科</text>
+    <text x="48" y="158" fill="#e0edf6" font-size="22">一个官网，连接游戏、社区与校园服务。</text>
+    <text x="48" y="193" fill="#aac3d5" font-size="19">账户 · 皮肤 · 服务器 · 3D 打印 · 知识库 · 二手书</text>
+    <rect x="48" y="225" width="475" height="36" rx="8" fill="#a4d9f5" fill-opacity=".08" stroke="#4f7893"/><text x="66" y="249" fill="#b7d8e9" font-size="17">Next.js · FastAPI · PostgreSQL · Redis</text>
+    <image href="https://raw.githubusercontent.com/LYOfficial/LYOfficial/main/assets/vustb-logo.webp" x="820" y="34" width="190" height="190" preserveAspectRatio="xMidYMid meet"/>
+    <text x="915" y="252" fill="#9bd5ef" font-size="17" text-anchor="middle">官网主体 · 统一 API / OAuth</text>
+  </g>
+</svg>

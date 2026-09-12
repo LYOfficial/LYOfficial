@@ -76,49 +76,31 @@
 
 <br>
 
-<h3>Featured Project</h3>
+<h3>🚀 Featured Projects</h3>
 
-<h4>Personal Projects</h4>
-<p style="white-space: nowrap;">
-<a href="./works.md#onedocs">
-<img src="https://img.shields.io/badge/TypeScript-OneDocs-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="OneDocs" />
-</a>
-<a href="./works.md#type2learn">
-<img src="https://img.shields.io/badge/TypeScript-Type2Learn-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Type2Learn" />
-</a>
-</p>
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+<h4>📚 <a href="https://github.com/LYOfficial/OneDocs">OneDocs</a></h4>
+<a href="https://onedocs.ijune.cn/"><img src="./assets/onedocs-banner.png" alt="OneDocs banner" width="100%" /></a>
+<p>基于 AI 的智能文档分析工具：本地解析 PDF，调用多种大模型生成结构化知识手册。</p>
+<a href="https://onedocs.ijune.cn/"><img src="https://img.shields.io/badge/在线体验-onedocs.ijune.cn-3178C6?style=flat-square" alt="OneDocs online" /></a>
+<a href="https://github.com/LYOfficial/OneDocs"><img src="https://img.shields.io/badge/React%20%2B%20Tauri%20%2B%20Rust-24C8DB?style=flat-square" alt="OneDocs stack" /></a>
+</td>
+<td width="50%" valign="top">
+<h4>🎟️ <a href="https://github.com/LYOfficial/KoDawn">KoDawn</a></h4>
+<a href="https://kodawn.cn/"><img src="./assets/kodawn-banner.png" alt="KoDawn banner" width="100%" /></a>
+<p>轻量化自助放号取号系统，覆盖项目、活动、放号员与取号员的完整预约流程。</p>
+<a href="https://kodawn.cn/"><img src="https://img.shields.io/badge/在线体验-kodawn.cn-339933?style=flat-square" alt="KoDawn online" /></a>
+<a href="https://github.com/LYOfficial/KoDawn"><img src="https://img.shields.io/badge/Node.js%20%2B%20Express%20%2B%20SQLite-111827?style=flat-square" alt="KoDawn stack" /></a>
+</td>
+</tr>
+</table>
 
-<h4>For USTB</h4>
-<p style="white-space: nowrap;">
-<a href="./works.md#ustb-all-in-one">
-<img src="https://img.shields.io/badge/Node.js-USTB--All--In--One-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="USTB-All-In-One" />
-</a>
-<a href="./works.md#ustbl">
-<img src="https://img.shields.io/badge/TypeScript-USTBL-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="USTBL" />
-</a>
-<a href="./works.md#vskin">
-<img src="https://img.shields.io/badge/Python-vSkin-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="vSkin" />
-</a>
-<a href="./works.md#vbeike">
-<img src="https://img.shields.io/badge/JavaScript-vBeike-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="vBeike" />
-</a>
-<a href="./works.md#kodawn">
-<img src="https://img.shields.io/badge/JavaScript-Kodawn-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Kodawn" />
-</a>
-</p>
-
-<h4>For Minecraft</h4>
-<p style="white-space: nowrap;">
-<a href="./works.md#bbspk">
-<img src="https://img.shields.io/badge/JavaScript-BBSPK-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="BBSPK" />
-</a>
-<a href="./works.md#enderpalette">
-<img src="https://img.shields.io/badge/JavaScript-EnderPalette-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="EnderPalette" />
-</a>
-<a href="./works.md#mineguide">
-<img src="https://img.shields.io/badge/Python-MineGuide-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="MineGuide" />
-</a>
-</p>
+<h4>🧱 <a href="https://www.ustb.world/">vUSTB</a> · 像素北科</h4>
+<p align="center"><a href="https://www.ustb.world/"><img src="./assets/vustb-card.png" alt="vUSTB 官网" width="19.7%" /></a><a href="https://github.com/LYOfficial/Jewel"><img src="./assets/jewel-card.png" alt="Jewel 仓库" width="19.7%" /></a><a href="https://github.com/LYOfficial/USTBL"><img src="./assets/ustbl-card.png" alt="USTBL 仓库" width="19.7%" /></a><a href="https://github.com/iJunecn/vBot"><img src="./assets/vbot-card.png" alt="vBot 仓库" width="19.7%" /></a><a href="https://github.com/LYOfficial/AnyshareCLI"><img src="./assets/anysharecli-card.png" alt="AnyshareCLI 仓库" width="19.7%" /></a></p>
+<a href="https://www.ustb.world/"><img src="./assets/vustb-flow.png" alt="vUSTB 生态详细数据流程图" width="100%" /></a>
+<p align="center"><a href="https://www.ustb.world/">官网</a> · <a href="https://github.com/LYOfficial/Jewel">Jewel</a> · <a href="https://github.com/LYOfficial/USTBL">USTBL</a> · <a href="https://github.com/iJunecn/vBot">vBot</a> · <a href="https://github.com/LYOfficial/AnyshareCLI">AnyshareCLI</a> · <a href="./works.md#vustb--像素北科生态">项目说明</a></p>
 
 <br>
 
