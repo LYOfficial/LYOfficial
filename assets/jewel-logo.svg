@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Hexagonal gem shape (emerald cut) -->
+  <polygon points="256,48 424,140 424,340 256,432 88,340 88,140" fill="#111111"/>
+
+  <!-- Top facet -->
+  <polygon points="256,48 424,140 340,170 256,130 172,170 88,140" fill="#1a1a1a"/>
+
+  <!-- Left top facet -->
+  <polygon points="88,140 172,170 172,240 88,200" fill="#161616"/>
+
+  <!-- Right top facet -->
+  <polygon points="424,140 340,170 340,240 424,200" fill="#141414"/>
+
+  <!-- Left facet -->
+  <polygon points="88,200 172,240 172,310 88,340" fill="#0d0d0d"/>
+
+  <!-- Right facet -->
+  <polygon points="424,200 340,240 340,310 424,340" fill="#0f0f0f"/>
+
+  <!-- Bottom left facet -->
+  <polygon points="88,340 172,310 256,350 256,432" fill="#0a0a0a"/>
+
+  <!-- Bottom right facet -->
+  <polygon points="424,340 340,310 256,350 256,432" fill="#0c0c0c"/>
+
+  <!-- Center left facet -->
+  <polygon points="172,170 256,130 256,350 172,310 172,240" fill="#121212"/>
+
+  <!-- Center right facet -->
+  <polygon points="340,170 256,130 256,350 340,310 340,240" fill="#111111"/>
+
+  <!-- Highlight -->
+  <polygon points="172,170 256,130 256,200 172,220" fill="#222222" opacity="0.35"/>
+
+  <!-- White outline -->
+  <polygon points="256,48 424,140 424,340 256,432 88,340 88,140" fill="none" stroke="white" stroke-width="14" stroke-linejoin="round"/>
+
+  <!-- Top facet lines -->
+  <line x1="172" y1="170" x2="88" y2="140" stroke="white" stroke-width="6" opacity="0.5"/>
+  <line x1="340" y1="170" x2="424" y2="140" stroke="white" stroke-width="6" opacity="0.4"/>
+  <line x1="172" y1="170" x2="256" y2="130" stroke="white" stroke-width="5" opacity="0.5"/>
+  <line x1="340" y1="170" x2="256" y2="130" stroke="white" stroke-width="5" opacity="0.45"/>
+  <line x1="172" y1="170" x2="340" y2="170" stroke="white" stroke-width="5" opacity="0.35"/>
+
+  <!-- Side facet lines -->
+  <line x1="172" y1="170" x2="172" y2="310" stroke="white" stroke-width="4" opacity="0.3"/>
+  <line x1="340" y1="170" x2="340" y2="310" stroke="white" stroke-width="4" opacity="0.25"/>
+  <line x1="88" y1="200" x2="172" y2="240" stroke="white" stroke-width="4" opacity="0.35"/>
+  <line x1="424" y1="200" x2="340" y2="240" stroke="white" stroke-width="4" opacity="0.3"/>
+  <line x1="88" y1="340" x2="172" y2="310" stroke="white" stroke-width="4" opacity="0.35"/>
+  <line x1="424" y1="340" x2="340" y2="310" stroke="white" stroke-width="4" opacity="0.3"/>
+  <line x1="256" y1="130" x2="256" y2="350" stroke="white" stroke-width="4" opacity="0.25"/>
+  <line x1="172" y1="240" x2="172" y2="310" stroke="white" stroke-width="3" opacity="0.2"/>
+  <line x1="340" y1="240" x2="340" y2="310" stroke="white" stroke-width="3" opacity="0.2"/>
+  <line x1="172" y1="310" x2="256" y2="350" stroke="white" stroke-width="4" opacity="0.3"/>
+  <line x1="340" y1="310" x2="256" y2="350" stroke="white" stroke-width="4" opacity="0.25"/>
+
+  <!-- Letter J -->
+  <path d="M286,240 L286,320 C286,358 268,376 244,376 C218,376 200,356 196,328
+           L222,325 C226,342 234,352 244,352 C260,352 264,338 264,320 L264,240 Z"
+        fill="white" opacity="0.9"/>
+</svg>

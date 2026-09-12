@@ -7,7 +7,7 @@
 
 ### vUSTB · 像素北科生态
 
-五个相互协作的项目共同组成 vUSTB：**vUSTB** 是官网主体与统一 API/OAuth 中心；**USTBL** 通过 OAuth 设备流登录并同步角色、共享实例；**vBot** 通过公开 API 向 QQ 群提供服务器、打印机和知识库查询；**Jewel** 负责单机 Docker Compose 部署、备份与资源监控；**AnyshareCLI** 为启动器资源和发布文件提供北科云盘分享链接的列出、上传、下载能力。
+五个相互协作的项目共同组成 vUSTB：**vUSTB** 是官网主体与统一 API/OAuth 中心；**USTBL** 通过 OAuth 设备流登录并同步角色、共享实例；**vBot** 通过公开 API 向 QQ 群提供服务器、打印机和知识库查询；**Jewel** 负责单机 Docker Compose 部署、备份与资源监控；**AnyshareCLI** 为启动器资源和发布文件提供北科云盘分享链接的列出、上传、下载能力。早期的 **vSkin**、**vBeike** 功能现已并入 vUSTB 平台，不再作为独立项目展示。
 
 官网：https://www.ustb.world/
 
@@ -30,38 +30,6 @@
 
 仓库：https://github.com/LYOfficial/Type2Learn
 下载体验：https://github.com/LYOfficial/Type2Learn/releases
-
-## For USTB
-
-### USTB-All-In-One
-为 USTBer 开发的开源项目收录站。
-
-仓库：https://github.com/LYOfficial/USTB-All-In-One
-在线演示：https://one.ustb.world/
-
-### USTBL
-为 USTBer 开发的 Minecraft 启动器。
-
-仓库：https://github.com/LYOfficial/USTBL
-下载体验：https://github.com/LYOfficial/USTBL/releases
-
-### vSkin
-为 USTB SkyCode 开发的皮肤与认证管理中心。
-
-仓库：https://github.com/LYOfficial/vSkin
-在线演示：https://skin.ustb.world/
-
-### vBeike
-为 USTB SkyCode 开发的像素北科工程在线协作系统。
-
-仓库：https://github.com/LYOfficial/vBeiKe
-在线演示：https://vbeike.ustb.world/
-
-### Kodawn
-为 USTB MP 开发的自助放号取号预约系统。
-
-仓库：https://github.com/LYOfficial/KoDawn
-在线演示：https://kodawn.cn/
 
 ## For Minecraft
 

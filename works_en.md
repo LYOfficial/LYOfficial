@@ -7,7 +7,7 @@
 
 ### vUSTB Ecosystem
 
-Five cooperating projects power vUSTB: **vUSTB** is the private website and unified API/OAuth center; **USTBL** uses OAuth Device Flow to sync accounts, roles and shared instances; **vBot** exposes live server, printer and knowledge-base queries in QQ; **Jewel** handles single-host Docker Compose deployment, backups and resource metrics; **AnyshareCLI** bridges launcher assets and release files to USTB cloud-drive share links.
+Five cooperating projects power vUSTB: **vUSTB** is the private website and unified API/OAuth center; **USTBL** uses OAuth Device Flow to sync accounts, roles and shared instances; **vBot** exposes live server, printer and knowledge-base queries in QQ; **Jewel** handles single-host Docker Compose deployment, backups and resource metrics; **AnyshareCLI** bridges launcher assets and release files to USTB cloud-drive share links. The former **vSkin** and **vBeike** features are now integrated into the vUSTB platform and are no longer shown as standalone projects.
 
 Website: https://www.ustb.world/
 
@@ -30,38 +30,6 @@ A desktop learning app based on typing practice.
 
 Repository: https://github.com/LYOfficial/Type2Learn
 Download: https://github.com/LYOfficial/Type2Learn/releases
-
-## For USTB
-
-### USTB-All-In-One
-An open-source portal collecting projects built for USTBers.
-
-Repository: https://github.com/LYOfficial/USTB-All-In-One
-Live Demo: https://one.ustb.world/
-
-### USTBL
-A Minecraft launcher built for USTBers.
-
-Repository: https://github.com/LYOfficial/USTBL
-Download: https://github.com/LYOfficial/USTBL/releases
-
-### vSkin
-A skin and authentication management center for USTB SkyCode.
-
-Repository: https://github.com/LYOfficial/vSkin
-Live Demo: https://skin.ustb.world/
-
-### vBeike
-An online collaboration system for the Pixel USTB project in USTB SkyCode.
-
-Repository: https://github.com/LYOfficial/vBeiKe
-Live Demo: https://vbeike.ustb.world/
-
-### Kodawn
-A self-service appointment and ticketing system for USTB MP.
-
-Repository: https://github.com/LYOfficial/KoDawn
-Live Demo: https://kodawn.cn/
 
 ## For Minecraft
 
