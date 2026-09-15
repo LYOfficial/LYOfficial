@@ -2,5 +2,5 @@
 <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#292446"/><stop offset="1" stop-color="#72519b"/></linearGradient></defs>
 <rect x="1" y="1" width="238" height="298" rx="18" fill="url(#g)" stroke="#ceb8f3"/>
 <text x="22" y="34" fill="#e4d6ff" font-family="Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / PLAY</text>
-<image href="https://raw.githubusercontent.com/LYOfficial/LYOfficial/main/assets/ustbl-logo.png" x="60" y="55" width="120" height="120" preserveAspectRatio="xMidYMid meet"/>
+<image href="ustbl-logo-rounded.png" x="70" y="65" width="100" height="100" preserveAspectRatio="xMidYMid meet"/>
 <text x="120" y="200" text-anchor="middle" fill="#fff" font-family="Segoe UI,sans-serif" font-size="30" font-weight="700">USTBL</text><text x="120" y="226" text-anchor="middle" fill="#f0e8ff" font-family="Microsoft YaHei,sans-serif" font-size="15">Minecraft 启动器</text><text x="120" y="250" text-anchor="middle" fill="#d9c9ee" font-family="Microsoft YaHei,sans-serif" font-size="13">OAuth · 角色 · 实例</text><text x="120" y="278" text-anchor="middle" fill="#cdb9e6" font-family="Segoe UI,sans-serif" font-size="12">desktop launcher</text></svg>

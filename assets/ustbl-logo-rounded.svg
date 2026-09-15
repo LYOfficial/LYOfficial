@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
-  <title id="title">USTBL</title>
-  <desc id="desc">由六枚蓝色六边形和中央立体几何核心组成的 USTBL 标志</desc>
+  <title id="title">USTBL macOS rounded icon</title>
+  <desc id="desc">白色 macOS 风格圆角底板上的 USTBL 立体矢量图标，圆角外保持透明</desc>
   <defs>
     <radialGradient id="upper-face" cx="72%" cy="18%" r="105%">
       <stop offset="0" stop-color="#65b9f2"/>
@@ -68,7 +68,10 @@
     </linearGradient>
   </defs>
 
+  <rect width="1024" height="1024" rx="230" ry="230" fill="#ffffff"/>
+
   <!-- 上方三枚六边形采用规整的内收斜面，形成柔和立体边缘。 -->
+  <g id="logo-artwork" transform="translate(0 17)">
   <g id="upper-tiles">
     <g id="upper-left">
       <path fill="url(#upper-face)" d="M293 197 369 239V436L307 481H229L149 436V276Z"/>
@@ -160,4 +163,6 @@
       <path fill="url(#bronze-left)" d="m495 546 17-10 17 10-17 10Z"/>
     </g>
   </g>
+  </g>
 </svg>
+
